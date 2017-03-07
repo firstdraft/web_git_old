@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = WebGit::VERSION
   s.authors     = ["Raghu Betina"]
   s.email       = ["raghu@firstdraft.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of WebGit."
-  s.description = "TODO: Description of WebGit."
+  s.homepage    = "https://github.com/firstdraft/web_git"
+  s.summary     = "An in-browser GIT GUI for your Rails project"
+  s.description = "WebGit is a Rails Engine that provides an in-browser visual interface to a simple but effective Git workflow. For educational purposes."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
